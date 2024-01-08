@@ -11,9 +11,9 @@ The dataset is a realistic simulation representing actual e-commerce customer be
 
 Methodology
 
-Data Preprocessing: Conducted with SAS Enterprise Miner, Talend Data Integration and Talend Data Preparation, including handling missing values and ensuring data quality.
-Modeling: Applied ensemble methods, such as bagging and boosting, with a focus on the Decision Tree, Random Forest and Gradient Boosting models.
-Evaluation: Models were compared based on the Average Squared Error and other evaluation metrics, with Gradient Boosting outperforming others in prediction accuracy.
+Data Preprocessing: Conducted with SAS Enterprise Miner, Talend Data Integration and Talend Data Preparation, including handling missing values and ensuring data quality./
+Modeling: Applied ensemble methods, such as bagging and boosting, with a focus on the Decision Tree, Random Forest and Gradient Boosting models./
+Evaluation: Models were compared based on the Average Squared Error and other evaluation metrics, with Gradient Boosting outperforming others in prediction accuracy./
 
 The Role of Tools:
 
