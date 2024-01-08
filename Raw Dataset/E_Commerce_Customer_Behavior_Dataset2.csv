@@ -1,0 +1,501 @@
+CustomerID,Churn,Tenure,PreferredLoginDevice,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,Occupation,FrequencyOfWebsiteVisits
+50501,0,5,Mobile,34,Female,Suburban,Gold,90,35373.3694,Clothing,2023/8/26,Student,3
+50502,0,4,Mobile,52,Other,Suburban,Gold,86,27227.01417,Home Goods,2023/9/19,Student,18
+50503,0,3,Mobile,48,Other,Rural,Bronze,88,6584.685881,Home Goods,2023/7/2,Professional,20
+50504,1,5,Tablet,49,Male,Suburban,Platinum,41,10275.51348,Electronics,2023/5/8,Self-Employed,24
+50505,0,4,Mobile,24,Other,Urban,Gold,87,34231.10878,Home Goods,2023/12/12,Retired,19
+50506,0,4,Computer,54,Male,Urban,Platinum,36,3207.598873,Clothing,2023/8/14,Self-Employed,26
+50507,0,2,Mobile,58,Female,Rural,Gold,39,5676.567996,Home Goods,2023/1/15,Retired,22
+50508,0,3,Computer,70,Female,Urban,Silver,89,4958.171279,Clothing,2023/10/7,Retired,13
+50509,0,5,Tablet,54,Other,Rural,Silver,51,23066.42627,Electronics,2023/1/9,Self-Employed,14
+50510,0,3,Computer,27,Male,Rural,Silver,56,15505.56415,Electronics,2023/7/18,Self-Employed,15
+50511,0,2,Mobile,45,Female,Rural,Bronze,14,1078.944932,Clothing,2023/12/19,Professional,2
+50512,0,1,Computer,51,Female,Rural,Platinum,10,3158.247873,Clothing,2023/8/22,Professional,24
+50513,0,5,Computer,37,Other,Suburban,Bronze,81,10952.42711,Home Goods,2023/1/21,Student,29
+50514,0,4,Computer,66,Female,Suburban,Platinum,62,18557.40895,Home Goods,2023/5/19,Student,7
+50515,0,2,Tablet,54,Female,Urban,Gold,22,805.4419217,Home Goods,2023/4/9,Professional,6
+50516,0,1,Mobile,27,Male,Suburban,Gold,42,2330.368258,Electronics,2023/11/4,Retired,27
+50517,0,1,Mobile,28,Female,Rural,Gold,97,4520.163358,Home Goods,2023/12/21,Self-Employed,17
+50518,0,2,Computer,31,Male,Urban,Silver,66,23273.1552,Clothing,2023/1/16,Professional,1
+50519,0,1,Mobile,56,Female,Urban,Silver,9,3639.670878,Home Goods,2023/9/10,Student,6
+50520,1,4,Tablet,70,Male,Suburban,Platinum,18,4378.427146,Home Goods,2023/12/5,Professional,30
+50521,1,5,Tablet,63,Male,Urban,Silver,67,29422.36259,Home Goods,2023/2/27,Student,7
+50522,0,5,Mobile,64,Other,Urban,Platinum,27,5585.564202,Home Goods,2023/6/28,Professional,17
+50523,0,3,Mobile,65,Female,Suburban,Silver,87,24461.67282,Electronics,2023/5/20,Retired,25
+50524,0,5,Mobile,31,Female,Urban,Silver,53,22507.43633,Home Goods,2023/3/24,Retired,1
+50525,0,5,Mobile,54,Female,Suburban,Gold,29,4073.86887,Electronics,2023/10/13,Student,19
+50526,1,3,Tablet,42,Male,Rural,Platinum,93,44159.08223,Electronics,2023/10/3,Retired,2
+50527,1,5,Tablet,39,Female,Rural,Gold,56,13196.1849,Home Goods,2023/10/26,Retired,2
+50528,0,4,Tablet,59,Female,Urban,Silver,72,9220.763498,Clothing,2023/12/11,Self-Employed,27
+50529,1,1,Tablet,55,Female,Rural,Gold,31,14334.95745,Clothing,2023/5/13,Retired,2
+50530,0,3,Computer,59,Male,Suburban,Platinum,88,14570.85731,Clothing,2023/10/22,Professional,8
+50531,0,2,Computer,18,Female,Rural,Gold,42,6357.824384,Electronics,2023/10/17,Professional,27
+50532,0,5,Mobile,40,Other,Urban,Platinum,36,7252.043248,Electronics,2023/12/7,Student,29
+50533,1,4,Mobile,34,Other,Suburban,Silver,18,7913.418377,Electronics,2023/8/30,Student,30
+50534,0,1,Tablet,50,Female,Suburban,Platinum,91,43676.16084,Home Goods,2023/7/28,Professional,5
+50535,0,3,Mobile,58,Female,Suburban,Gold,33,14882.2246,Clothing,2023/12/1,Professional,24
+50536,1,5,Mobile,46,Other,Urban,Gold,62,19740.50633,Electronics,2023/11/23,Self-Employed,26
+50537,0,4,Tablet,20,Other,Rural,Platinum,78,21372.93625,Electronics,2023/1/29,Student,17
+50538,0,5,Computer,50,Other,Urban,Gold,2,62.54502505,Home Goods,2023/11/30,Professional,12
+50539,0,2,Tablet,34,Male,Suburban,Bronze,93,36894.13166,Clothing,2023/1/24,Retired,19
+50540,0,5,Tablet,44,Male,Urban,Bronze,71,26299.86135,Electronics,2023/11/17,Retired,22
+50541,0,2,Computer,22,Female,Rural,Bronze,46,10006.07544,Home Goods,2023/1/5,Self-Employed,11
+50542,0,5,Mobile,18,Male,Rural,Bronze,4,1155.676602,Electronics,2023/7/13,Professional,2
+50543,0,1,Mobile,69,Male,Rural,Bronze,6,1135.820497,Home Goods,2023/7/27,Retired,29
+50544,0,2,Computer,,Female,Suburban,Silver,75,23822.39733,Home Goods,2023/3/29,Student,22
+50545,0,5,Computer,37,Other,Suburban,Gold,48,13150.01507,Electronics,2023/5/13,Self-Employed,4
+50546,0,1,Tablet,44,Other,Rural,Platinum,12,2437.204559,Clothing,2023/8/6,Self-Employed,12
+50547,0,5,Tablet,65,Male,Suburban,Silver,74,8904.11629,Clothing,2023/9/27,Student,2
+50548,0,2,Computer,25,Female,Urban,Platinum,57,23944.84546,Home Goods,2023/3/20,Retired,27
+50549,1,5,Mobile,53,Female,Rural,Bronze,6,1674.186919,Home Goods,2023/9/14,Student,17
+50550,0,2,Mobile,59,Male,Rural,Silver,89,36614.06027,Home Goods,2023/11/25,Retired,2
+50551,0,3,Computer,53,Male,Rural,Bronze,72,17404.32824,Electronics,2023/4/10,Self-Employed,29
+50552,1,3,Computer,62,Other,Suburban,Gold,91,9219.416312,Electronics,2023/4/3,Retired,26
+50553,0,1,Computer,34,Female,Suburban,Gold,85,27147.66513,Home Goods,2023/3/17,Professional,23
+50554,0,3,Tablet,67,Male,Suburban,Bronze,12,1040.355318,Home Goods,2023/12/24,Retired,14
+50555,0,3,Computer,21,Other,Rural,Bronze,47,4734.645256,Clothing,2023/11/19,Student,20
+50556,0,5,Mobile,20,Female,Urban,Gold,51,12053.25511,Electronics,2023/3/21,Professional,11
+50557,0,2,Mobile,38,Other,Suburban,Silver,19,1195.627586,Clothing,2023/9/25,Student,30
+50558,1,2,Mobile,28,Female,Suburban,Silver,79,8783.5535,Clothing,2023/12/8,Professional,13
+50559,0,4,Tablet,62,Male,Rural,Platinum,77,24297.87932,Electronics,2023/3/23,Self-Employed,20
+50560,0,4,Computer,40,Male,Rural,Gold,92,36997.31284,Electronics,2023/6/9,Retired,16
+50561,1,5,Computer,47,Male,Suburban,Platinum,79,10114.1079,Electronics,2023/9/16,Student,16
+50562,1,4,Tablet,35,Other,Rural,Gold,46,21917.1787,Electronics,2023/11/8,Student,4
+50563,1,1,Computer,43,Other,Suburban,Gold,2,774.2445948,Clothing,2023/9/27,Self-Employed,9
+50564,0,2,Mobile,53,Other,Suburban,Platinum,85,5858.696092,Electronics,2023/10/7,Retired,17
+50565,1,2,Mobile,67,Female,Suburban,Silver,11,1527.10354,Home Goods,2023/9/29,Retired,29
+50566,0,1,Tablet,52,Other,Rural,Platinum,24,3787.147975,Home Goods,2023/7/28,Student,4
+50567,0,4,Tablet,20,Female,Suburban,Silver,56,1355.790481,Clothing,2023/1/4,Professional,1
+50568,0,1,Mobile,33,Other,Rural,Platinum,50,3449.544419,Electronics,2023/7/15,Professional,27
+50569,0,3,Mobile,31,Other,Rural,Bronze,89,27745.93917,Electronics,2023/4/20,Student,26
+50570,1,5,Computer,54,Other,Rural,Platinum,35,17375.15301,Clothing,2023/6/15,Student,29
+50571,0,5,Mobile,46,Female,Urban,Bronze,67,8815.650358,Clothing,2023/12/3,Professional,28
+50572,0,4,Tablet,41,Male,Urban,Silver,94,21856.5309,Electronics,2023/11/4,Retired,9
+50573,0,1,Mobile,47,Male,Urban,Bronze,92,3196.146143,Clothing,2023/8/22,Retired,7
+50574,0,1,Mobile,57,Male,Urban,Gold,62,7265.003699,Clothing,2023/11/18,Student,2
+50575,0,5,Tablet,32,Female,Rural,Gold,12,4898.35487,Electronics,2023/8/22,Professional,29
+50576,0,5,Computer,54,Other,Suburban,Platinum,49,24162.92373,Electronics,2023/7/25,Professional,16
+50577,1,2,Tablet,67,Female,Suburban,Bronze,27,6437.021721,Electronics,2023/9/8,Retired,18
+50578,0,3,Tablet,70,Male,Rural,Silver,51,24262.66261,Electronics,2023/12/12,Self-Employed,23
+50579,1,5,Computer,66,Female,Urban,Gold,17,1588.859278,Clothing,2023/4/7,Retired,16
+50580,1,4,Computer,46,Male,Rural,Silver,89,24509.59317,Home Goods,2023/6/12,Retired,28
+50581,0,4,Tablet,39,Female,Rural,Bronze,70,4044.288939,Clothing,2023/1/31,Retired,12
+50582,0,5,Mobile,58,Other,Rural,Gold,84,26283.75374,Home Goods,2023/4/23,Self-Employed,16
+50583,1,1,Tablet,50,Other,Suburban,Platinum,85,1914.64803,Home Goods,2023/9/29,Self-Employed,22
+50584,0,2,Computer,39,Male,Suburban,Silver,,8648.242222,Electronics,2023/8/18,Student,15
+50585,0,4,Tablet,59,Other,Urban,Silver,23,1785.529915,Electronics,2023/2/20,Professional,23
+50586,0,1,Tablet,34,Other,Urban,Silver,4,1018.641644,Clothing,2023/2/19,Retired,2
+50587,1,4,Mobile,45,Male,Urban,Gold,90,32470.18931,Clothing,2023/10/23,Retired,30
+50588,0,5,Computer,36,Female,Rural,Bronze,71,32856.26537,Clothing,2023/3/12,Self-Employed,29
+50589,0,4,Computer,43,Female,Suburban,Silver,17,5217.394721,Home Goods,2023/5/29,Self-Employed,22
+50590,0,2,Mobile,32,Male,Urban,Silver,49,16371.93496,Electronics,2023/2/9,Student,26
+50591,0,5,Mobile,55,Other,Suburban,Silver,74,6452.257989,Electronics,2023/8/3,Self-Employed,4
+50592,0,4,Mobile,61,Other,Suburban,Bronze,55,12954.02915,Clothing,2023/5/4,Retired,2
+50593,1,2,Mobile,47,Other,Rural,Silver,6,247.5426654,Electronics,2023/6/13,Student,29
+50594,0,3,Tablet,55,Female,Rural,Silver,26,10326.6818,Electronics,2023/9/4,Student,3
+50595,0,3,Computer,25,Female,Suburban,Silver,55,8178.936377,Electronics,2023/1/20,Professional,9
+50596,0,5,Computer,43,Male,Urban,Silver,10,3075.345358,Home Goods,2023/7/14,Professional,18
+50597,0,5,Mobile,23,Other,Suburban,Bronze,49,2371.656786,Home Goods,2023/12/6,Retired,26
+50598,1,2,Computer,33,Female,Suburban,,4,551.6603487,Home Goods,2023/11/10,Student,5
+50599,0,1,Computer,54,Male,Suburban,Bronze,6,2523.355899,Electronics,2023/8/8,Retired,9
+50600,0,3,Mobile,38,Male,Rural,Gold,50,18354.98145,Electronics,2023/3/3,Self-Employed,5
+50601,0,5,Tablet,49,Male,Urban,Bronze,77,16633.56589,Electronics,2023/11/9,Student,3
+50602,0,3,Tablet,53,Other,Rural,Bronze,58,27077.3266,Clothing,2023/5/12,Self-Employed,25
+50603,0,2,Computer,55,Female,Rural,Platinum,17,3439.412135,Home Goods,2023/4/29,Student,17
+50604,0,3,Tablet,46,Other,Suburban,Gold,98,13065.67809,Home Goods,2023/6/26,Student,29
+50605,0,4,Tablet,18,Female,Suburban,Silver,11,3965.888242,Clothing,2023/5/26,Professional,6
+50606,0,1,Tablet,49,Other,Suburban,Platinum,34,15378.85597,Clothing,2023/1/5,Professional,17
+50607,0,3,Mobile,48,Female,Suburban,Platinum,,7409.750595,Electronics,2023/3/8,Student,12
+50608,0,4,Mobile,48,Male,Rural,Bronze,38,4970.326564,Electronics,2023/12/25,Self-Employed,1
+50609,0,3,Tablet,65,Male,Suburban,Silver,81,38757.81281,Clothing,2023/6/2,Self-Employed,20
+50610,1,2,Computer,68,Female,Urban,Silver,2,253.5042268,Home Goods,2023/3/14,Retired,4
+50611,0,5,Mobile,42,Male,Urban,Platinum,34,7658.798234,Clothing,2023/1/22,Student,12
+50612,0,2,Mobile,59,Male,Suburban,Bronze,54,1277.779915,Home Goods,2023/5/6,Retired,30
+50613,0,4,Computer,34,Male,Urban,Bronze,78,20940.03275,Home Goods,2023/9/9,Retired,5
+50614,0,1,Mobile,18,Male,Rural,Platinum,37,9471.085843,Electronics,2023/6/5,Retired,4
+50615,0,4,Tablet,35,Male,Urban,Platinum,41,9385.159059,Electronics,2023/1/6,Student,9
+50616,0,4,Mobile,30,Male,Urban,Silver,89,21058.66954,Home Goods,2023/3/4,Professional,8
+50617,1,1,Mobile,55,Female,Suburban,Silver,39,13415.28901,Home Goods,2023/11/25,Self-Employed,7
+50618,0,1,Mobile,19,Female,Urban,Bronze,90,11880.86924,Home Goods,2023/2/7,Self-Employed,16
+50619,1,2,Tablet,60,Male,Suburban,Bronze,94,33309.84867,Clothing,2023/8/22,Retired,25
+50620,0,2,Tablet,57,Other,Rural,Platinum,86,29008.10693,Home Goods,2023/5/27,Self-Employed,2
+50621,0,2,Mobile,35,Other,Rural,Silver,57,11786.21415,Home Goods,2023/10/20,Professional,15
+50622,0,2,Mobile,31,Female,Rural,Platinum,4,1322.429817,Electronics,2023/8/1,Professional,11
+50623,0,2,Mobile,19,Other,Rural,Gold,32,5031.868189,Home Goods,2023/5/6,Professional,14
+50624,0,2,Mobile,21,Female,Urban,Silver,11,3594.963204,Home Goods,2023/6/4,Retired,4
+50625,0,4,Tablet,37,Male,Urban,Gold,7,970.1448934,Electronics,2023/11/14,Self-Employed,10
+50626,0,4,Tablet,45,Female,Urban,Gold,59,3401.898605,Electronics,2023/6/12,Professional,26
+50627,0,2,Tablet,45,Male,Rural,Bronze,10,1808.03175,Home Goods,2023/12/13,Student,8
+50628,1,5,Computer,70,Other,Suburban,Bronze,94,6166.206012,Electronics,2023/8/19,Student,7
+50629,0,1,Tablet,70,Female,Rural,Platinum,10,1776.13056,Clothing,2023/9/19,Professional,25
+50630,0,3,Tablet,25,Other,Urban,Platinum,79,13530.02115,Home Goods,2023/2/14,Self-Employed,5
+50631,1,4,Mobile,20,Male,Suburban,Platinum,29,441.3169526,Clothing,2023/10/25,Student,8
+50632,0,2,Mobile,39,Male,Suburban,Gold,38,5573.940236,Clothing,2023/4/14,Student,12
+50633,0,2,Mobile,50,Female,Suburban,Gold,28,4979.849087,Electronics,2023/4/17,Retired,1
+50634,0,5,Mobile,18,Other,Suburban,Bronze,38,3559.397441,Electronics,2023/10/4,Self-Employed,12
+50635,0,1,Mobile,69,Male,Rural,Silver,40,19640.23269,Clothing,2023/6/26,Self-Employed,28
+50636,0,2,Mobile,28,Female,Rural,Gold,6,290.7129414,Electronics,2023/2/21,Professional,6
+50637,0,2,Tablet,20,Male,Suburban,Silver,36,12580.33027,Electronics,2023/3/15,Self-Employed,26
+50638,0,1,Tablet,65,Male,Rural,Silver,5,1022.645715,Clothing,2023/5/6,Self-Employed,20
+50639,0,4,Tablet,56,Female,Rural,Bronze,47,7594.754043,Home Goods,2023/11/1,Retired,3
+50640,0,3,Computer,36,Other,Urban,Gold,36,15085.17543,Electronics,2023/11/28,Retired,25
+50641,0,5,Mobile,66,Male,Suburban,Gold,100,16505.39443,Electronics,2023/7/10,Self-Employed,12
+50642,0,1,Mobile,70,Female,Rural,Platinum,28,4937.980605,Clothing,2023/6/2,Self-Employed,12
+50643,0,2,Tablet,66,Other,Urban,Gold,28,308.8392342,Home Goods,2023/12/28,Retired,23
+50644,1,4,Mobile,62,Female,Suburban,Silver,58,20661.47469,Electronics,2023/3/27,Professional,23
+50645,0,4,Computer,68,Other,Urban,Gold,50,2643.615569,Clothing,2023/4/2,Self-Employed,19
+50646,0,5,Tablet,47,Female,Urban,Silver,28,296.9644067,Electronics,2023/9/19,Self-Employed,28
+50647,0,5,Computer,66,Male,Suburban,Gold,40,3490.557353,Electronics,2023/8/5,Student,14
+50648,0,5,Computer,64,Other,Suburban,Gold,75,25645.16665,Electronics,2023/10/19,Student,24
+50649,0,3,Tablet,41,Other,Suburban,Gold,95,45718.81452,Clothing,2023/2/12,Professional,5
+50650,0,3,Computer,35,Other,Rural,Bronze,76,7051.820014,Electronics,2023/1/26,Retired,4
+50651,1,3,Mobile,34,Other,Suburban,Bronze,66,23252.17868,Clothing,2023/12/23,Professional,14
+50652,0,2,Mobile,67,Female,Suburban,Bronze,13,6488.306712,Clothing,2023/5/28,Student,14
+50653,1,4,Tablet,56,Male,Rural,Bronze,25,1728.490088,Electronics,2023/6/22,Professional,17
+50654,0,3,Tablet,27,Male,Urban,Platinum,63,11099.9501,Home Goods,2023/1/8,Professional,18
+50655,0,2,Mobile,55,Male,Suburban,Bronze,22,10625.37086,Clothing,2023/10/20,Professional,6
+50656,0,3,Tablet,55,Other,Rural,Silver,96,6773.002634,Home Goods,2023/3/24,Student,20
+50657,0,2,Computer,21,Other,Rural,Bronze,37,1942.613028,Home Goods,2023/6/18,Student,11
+50658,0,5,Computer,36,Other,Urban,Bronze,18,325.1464482,Home Goods,2023/1/5,Retired,9
+50659,1,3,Computer,45,Male,Rural,Platinum,76,35235.34271,Clothing,2023/4/16,Professional,11
+50660,0,5,Mobile,33,Other,Urban,Gold,80,32623.33409,Clothing,2023/11/24,Student,1
+50661,1,3,Mobile,25,Female,Suburban,Platinum,99,47473.88105,Electronics,2023/3/9,Self-Employed,15
+50662,0,1,Computer,22,Other,Suburban,Bronze,5,2209.748384,Electronics,2023/8/21,Student,5
+50663,0,2,Tablet,69,Female,Urban,Platinum,94,10141.60971,Clothing,2023/4/3,Retired,24
+50664,0,5,Tablet,49,Other,Suburban,Silver,42,1297.389185,Clothing,2023/6/22,Professional,9
+50665,1,1,Computer,44,Male,Suburban,Gold,27,5393.265726,Clothing,2023/12/31,Professional,20
+50666,1,2,Tablet,66,Female,Rural,Platinum,44,20991.5412,Home Goods,2023/6/22,Self-Employed,29
+50667,0,4,Computer,23,Other,Rural,Gold,64,8732.739315,Clothing,2023/12/6,Professional,26
+50668,0,2,Computer,,Female,Rural,Platinum,51,23857.83031,Electronics,2023/6/16,Retired,2
+50669,0,3,Computer,42,Male,Suburban,Gold,40,4580.894267,Clothing,2023/1/20,Student,12
+50670,0,5,Mobile,32,,Suburban,Gold,37,8345.405725,Electronics,2023/7/10,Self-Employed,6
+50671,0,5,Computer,27,Female,Suburban,Platinum,18,7251.503755,Home Goods,2023/3/17,Professional,10
+50672,1,2,Mobile,61,Male,Urban,Platinum,71,27242.5127,Electronics,2023/1/15,Self-Employed,13
+50673,1,3,Mobile,37,Female,Rural,Silver,33,3506.238152,Home Goods,2023/9/19,Student,26
+50674,0,1,Mobile,24,Female,Rural,Gold,20,7320.349291,Clothing,2023/12/28,Student,23
+50675,0,3,Computer,50,Other,Suburban,Bronze,91,16945.52782,Electronics,2023/8/30,Retired,29
+50676,0,2,Mobile,28,Male,Suburban,Bronze,38,18898.48363,Clothing,2023/2/17,Self-Employed,26
+50677,0,2,Mobile,22,Female,Urban,Platinum,97,1207.993843,Electronics,2023/12/31,Student,26
+50678,0,5,Computer,64,Male,Urban,Bronze,32,10046.87369,Home Goods,2023/9/10,Retired,14
+50679,1,4,Computer,33,Male,Rural,Bronze,40,4424.325579,Home Goods,2023/8/14,Retired,2
+50680,0,3,Mobile,69,Other,Rural,Silver,35,1202.05789,Home Goods,2023/1/20,Student,26
+50681,0,2,Tablet,52,Female,Rural,Silver,89,38868.95565,Electronics,2023/1/20,Self-Employed,12
+50682,0,3,Tablet,23,Other,Urban,Gold,24,4543.673572,Electronics,2023/10/26,Professional,5
+50683,0,1,Mobile,46,Other,Suburban,Silver,21,9715.774957,Home Goods,2023/6/26,Student,9
+50684,1,5,Mobile,39,Other,Urban,Silver,90,981.2487752,Electronics,2023/10/14,Retired,19
+50685,0,3,Computer,23,Female,Suburban,Gold,95,32269.5132,Home Goods,2023/5/30,Student,4
+50686,0,3,Mobile,45,Male,Urban,Bronze,12,804.0144322,Electronics,2023/3/15,Retired,25
+50687,1,3,Computer,59,Other,Urban,Silver,4,1616.638094,Clothing,2023/2/6,Self-Employed,14
+50688,0,3,Computer,45,Female,Rural,Silver,64,19651.19821,Electronics,2023/1/24,Self-Employed,27
+50689,0,2,Tablet,64,Male,Suburban,Platinum,16,2501.646755,Electronics,2023/2/11,Student,29
+50690,0,3,Mobile,47,Female,Rural,Silver,88,10415.05295,Home Goods,2023/3/24,Professional,16
+50691,1,2,Tablet,40,Male,Rural,Gold,84,40716.45518,Clothing,2023/4/20,Student,20
+50692,0,5,Mobile,62,Male,Urban,Bronze,30,6146.560223,Electronics,2023/7/22,Self-Employed,29
+50693,1,5,Tablet,37,Male,Suburban,Bronze,38,18445.49423,Home Goods,2023/12/20,Professional,13
+50694,0,3,Tablet,50,Female,Suburban,Bronze,31,3318.819392,Clothing,2023/1/23,Retired,29
+50695,0,4,Computer,36,Other,Suburban,Platinum,38,18870.10909,Clothing,2023/5/29,Professional,22
+50696,0,2,Mobile,65,Other,Urban,Gold,15,4473.847632,Home Goods,2023/2/16,Self-Employed,28
+50697,0,3,Tablet,50,Other,Suburban,Platinum,91,8379.36061,Electronics,2023/12/22,Self-Employed,19
+50698,0,1,Computer,49,Other,Urban,Bronze,26,426.5974126,Clothing,2023/7/19,Retired,4
+50699,0,1,Computer,55,Other,Suburban,Silver,17,3920.75234,Electronics,2023/7/16,Self-Employed,13
+50700,0,1,Tablet,55,Other,Rural,Silver,36,11858.45203,Electronics,2023/2/21,Professional,3
+50701,0,2,Tablet,66,Other,Urban,Silver,91,,Home Goods,2023/3/23,Retired,11
+50702,1,5,Tablet,21,Female,Suburban,Platinum,50,709.9557568,Home Goods,2023/7/22,Professional,20
+50703,0,2,Mobile,26,Other,Rural,Bronze,96,16418.40694,Home Goods,2023/6/27,Retired,24
+50704,0,5,Computer,55,Male,Urban,Silver,2,848.3561405,Electronics,2023/8/5,Retired,9
+50705,0,2,Computer,49,Female,Suburban,Silver,49,,Electronics,2023/10/28,Self-Employed,12
+50706,0,4,Mobile,47,Female,Suburban,Gold,74,32766.80868,Electronics,2023/6/13,Retired,26
+50707,0,5,Tablet,40,Female,Urban,Gold,11,3375.923721,Clothing,2023/11/10,Student,4
+50708,1,5,Mobile,37,Female,Rural,Gold,37,951.4361767,Electronics,2023/1/4,Retired,30
+50709,0,5,Mobile,31,Male,Suburban,Platinum,46,21175.81384,Clothing,2023/7/24,Retired,21
+50710,0,3,Computer,54,Female,Suburban,Platinum,21,4130.615137,Home Goods,2023/1/19,Self-Employed,29
+50711,0,5,Computer,23,Male,Suburban,Silver,98,3250.05452,Home Goods,2023/5/1,Retired,22
+50712,0,5,Tablet,45,Female,Urban,Platinum,44,11707.18991,Clothing,2023/6/15,Self-Employed,25
+50713,0,3,Mobile,,Other,Suburban,Platinum,72,23492.49233,Home Goods,2023/6/22,Professional,1
+50714,0,1,Computer,22,Male,Suburban,Bronze,94,1934.238919,Clothing,2023/1/9,Student,17
+50715,0,1,Computer,27,Male,Urban,Silver,20,6447.615472,Clothing,2023/4/27,Retired,28
+50716,1,2,Computer,29,Male,Urban,Silver,19,8355.352718,Clothing,2023/12/20,Self-Employed,26
+50717,0,4,Mobile,54,Other,Rural,Silver,74,10738.53738,Clothing,2023/7/17,Student,28
+50718,0,5,Computer,43,Female,Urban,Gold,32,15947.61916,Clothing,2023/1/15,Retired,19
+50719,0,4,Mobile,20,Other,Urban,Silver,52,11139.37513,Home Goods,2023/8/6,Self-Employed,27
+50720,0,5,Tablet,37,Other,Suburban,Platinum,90,15795.87754,Clothing,2023/5/9,Self-Employed,5
+50721,0,5,Tablet,48,Female,Rural,Silver,61,16617.56834,Clothing,2023/12/14,Self-Employed,16
+50722,0,1,Mobile,22,Male,Urban,Gold,42,7893.313244,Home Goods,2023/2/4,Professional,25
+50723,0,2,Mobile,32,Other,Urban,Gold,28,5623.778395,Home Goods,2023/12/9,Student,27
+50724,0,3,Tablet,31,Female,Rural,Bronze,70,18555.86128,Electronics,2023/3/12,Retired,29
+50725,0,1,Mobile,30,Other,Suburban,Gold,29,4858.836242,Clothing,2023/10/14,Self-Employed,21
+50726,1,1,Tablet,35,Male,Urban,Platinum,85,17159.46096,Electronics,2023/12/18,Retired,28
+50727,0,4,Mobile,21,Female,Urban,Bronze,54,13072.95136,Home Goods,2023/4/24,Self-Employed,25
+50728,0,5,Tablet,53,Female,Rural,Gold,54,15860.7662,Home Goods,2023/1/22,Professional,26
+50729,0,4,Tablet,57,Female,Suburban,Bronze,18,5073.557122,Electronics,2023/6/26,Student,4
+50730,0,2,Mobile,70,Female,Suburban,Bronze,33,6901.309505,Electronics,2023/10/15,Student,21
+50731,0,3,Tablet,36,Female,Suburban,Bronze,70,27385.6469,Electronics,2023/5/3,Retired,9
+50732,0,4,Tablet,18,Male,Rural,Platinum,90,37401.46446,Home Goods,2023/1/2,Self-Employed,11
+50733,0,3,Tablet,39,Other,Urban,Gold,47,4851.389638,Electronics,,Professional,3
+50734,0,1,Tablet,40,Other,Suburban,Bronze,86,16338.85575,Clothing,2024/1/1,Self-Employed,30
+50735,1,4,Mobile,39,Female,Rural,Bronze,55,8235.723521,Electronics,2023/1/15,Retired,3
+50736,1,2,Computer,24,Male,Suburban,Platinum,68,33820.77199,Electronics,2023/3/8,Professional,3
+50737,0,5,Tablet,46,Male,Rural,Bronze,39,6570.132167,Electronics,2023/7/9,Professional,9
+50738,0,3,Mobile,23,Other,Urban,Bronze,52,14026.67984,Home Goods,2023/3/15,Student,11
+50739,0,1,Tablet,18,Other,Rural,Bronze,38,518.1536099,Electronics,2023/7/28,Professional,14
+50740,0,4,Tablet,48,Female,Rural,Gold,31,2945.029203,Electronics,2023/5/23,Self-Employed,4
+50741,0,2,Tablet,20,Other,Suburban,Gold,92,37313.53795,Clothing,2023/7/27,Self-Employed,2
+50742,0,1,Mobile,56,Other,Urban,Gold,34,8699.047282,Electronics,2023/3/25,Professional,24
+50743,0,2,Tablet,69,Male,Suburban,Bronze,99,30223.8348,Electronics,2023/11/7,Student,9
+50744,0,3,Mobile,47,Female,Suburban,Bronze,18,6093.850835,Clothing,2023/4/12,Retired,12
+50745,0,4,Tablet,19,Other,Urban,Platinum,24,804.4717027,Home Goods,2023/7/10,Self-Employed,10
+50746,0,5,Tablet,24,Female,Urban,Platinum,42,1520.313022,Clothing,2023/10/14,Retired,10
+50747,0,2,Mobile,54,Male,Urban,Bronze,92,32897.83017,Home Goods,2023/3/6,Retired,14
+50748,0,3,Mobile,67,Female,Suburban,Silver,29,346.6530468,Home Goods,2023/12/9,Self-Employed,12
+50749,1,4,Mobile,41,Other,Suburban,Gold,28,2929.624482,Clothing,2023/11/18,Student,27
+50750,0,1,Mobile,55,Male,Suburban,Silver,82,18270.16871,Clothing,2023/11/19,Student,7
+50751,0,2,Mobile,50,Other,Urban,Gold,3,358.2660359,Clothing,2023/10/15,Self-Employed,1
+50752,0,2,Mobile,64,Other,Rural,Silver,39,8121.490026,Electronics,2023/8/5,Self-Employed,27
+50753,1,2,Mobile,32,Male,Suburban,Platinum,9,1280.974363,Electronics,2023/3/18,Student,9
+50754,1,2,Computer,40,Female,Suburban,Bronze,77,13671.7499,Home Goods,2023/3/10,Student,17
+50755,0,5,Tablet,21,Other,Urban,Gold,25,2805.346183,Electronics,2023/2/10,Retired,12
+50756,0,5,Computer,65,Male,Urban,Silver,77,8049.679466,Clothing,2023/6/14,Professional,20
+50757,0,5,Mobile,67,Male,Urban,Platinum,37,10609.68052,Electronics,2023/3/21,Professional,5
+50758,0,5,Mobile,47,Male,Urban,Bronze,51,12467.40635,Clothing,2023/12/17,Professional,29
+50759,0,5,Tablet,54,Male,Suburban,Gold,43,20476.97305,Clothing,2023/11/2,Retired,23
+50760,0,4,Mobile,63,Female,Rural,Platinum,30,11039.96358,Home Goods,2023/3/16,Student,13
+50761,0,1,Tablet,20,Other,Suburban,Silver,26,2111.396437,Clothing,2023/10/15,Self-Employed,6
+50762,0,2,Mobile,55,Female,Suburban,Bronze,34,16434.43549,Clothing,2023/1/6,Retired,23
+50763,1,5,Tablet,56,Other,Urban,Platinum,69,32448.03471,Home Goods,2023/2/24,Self-Employed,10
+50764,0,4,Tablet,23,Male,Suburban,Silver,72,27001.83421,Clothing,2023/7/7,Retired,4
+50765,0,2,Tablet,38,Male,Urban,Silver,48,7077.939778,Clothing,2023/5/27,Student,13
+50766,0,5,Mobile,36,Male,Urban,Bronze,28,2358.726428,Electronics,2023/3/1,Self-Employed,5
+50767,0,2,Tablet,48,Male,Rural,Bronze,24,5807.849821,Home Goods,2023/4/6,Self-Employed,27
+50768,0,2,Computer,37,Male,Urban,Gold,30,11751.23949,Electronics,2023/9/26,Student,23
+50769,0,4,Tablet,27,Male,Suburban,Silver,59,2279.419822,Clothing,2023/8/26,Self-Employed,15
+50770,0,3,Computer,33,Other,Suburban,Platinum,96,3262.883902,Electronics,2023/10/10,Self-Employed,17
+50771,0,2,Mobile,55,Male,Urban,Platinum,59,6182.99387,Electronics,2023/3/2,Professional,29
+50772,1,4,Mobile,45,Female,Rural,Platinum,78,15464.47452,Home Goods,2023/1/5,Professional,4
+50773,0,5,Computer,41,Male,Urban,Silver,28,10807.68401,Electronics,2023/10/26,Student,11
+50774,1,4,Computer,47,Female,Rural,Platinum,46,9156.212504,Clothing,2023/9/14,Professional,15
+50775,0,4,Tablet,35,Female,Urban,Bronze,14,1276.977999,Clothing,2023/10/18,Retired,27
+50776,0,5,Mobile,35,Other,Suburban,Gold,82,3991.595163,Electronics,2023/2/6,Student,12
+50777,0,3,Mobile,40,Other,Rural,Silver,86,9221.379102,Home Goods,2023/6/2,Professional,6
+50778,0,4,Computer,19,Other,Urban,Silver,1,389.7837534,Clothing,2023/4/21,Professional,21
+50779,0,2,Mobile,43,Other,Suburban,Silver,51,7219.463584,Home Goods,2023/1/1,Self-Employed,9
+50780,1,2,Computer,20,Other,Suburban,Platinum,83,24062.31604,Electronics,2023/1/27,Self-Employed,11
+50781,1,2,Mobile,26,Male,Urban,Bronze,8,3823.231727,Home Goods,2023/4/1,Professional,25
+50782,0,5,Tablet,34,,Urban,Gold,9,1454.602968,Home Goods,2023/2/26,Student,14
+50783,0,5,Tablet,34,Other,Rural,Gold,87,14997.96371,Clothing,2023/8/31,Student,21
+50784,0,2,Mobile,64,Male,Rural,Platinum,82,15475.10442,Electronics,2023/10/21,Professional,19
+50785,0,5,Mobile,66,Male,Urban,Gold,70,19393.54192,Home Goods,2023/12/21,Student,7
+50786,0,3,Tablet,28,Other,Suburban,Silver,4,1395.601548,Electronics,2023/1/21,Self-Employed,2
+50787,0,4,Computer,43,Other,Urban,Platinum,63,30474.21011,Home Goods,2023/8/3,Professional,16
+50788,0,1,Computer,39,Male,Rural,Bronze,68,10333.44316,Electronics,2023/8/28,Retired,24
+50789,0,3,Mobile,19,Female,Urban,Platinum,8,2279.529624,Clothing,2023/10/31,Student,26
+50790,0,2,Computer,51,Male,Urban,Bronze,42,1583.143403,Home Goods,2023/4/10,Professional,2
+50791,0,4,Tablet,43,Other,Suburban,Gold,28,13139.63021,Clothing,2023/11/5,Professional,7
+50792,0,1,Tablet,52,Male,Urban,Platinum,15,6566.915456,Clothing,2024/1/1,Professional,5
+50793,0,5,Tablet,21,Male,Rural,Silver,21,6531.209944,Clothing,2023/12/25,Self-Employed,26
+50794,0,2,Mobile,48,Female,Urban,Bronze,88,11209.14881,Home Goods,2023/10/17,Professional,18
+50795,0,1,Mobile,49,Female,Suburban,Gold,72,24872.63074,Home Goods,2023/10/5,Student,10
+50796,0,1,Mobile,50,Male,Rural,Gold,38,11797.50426,Electronics,2023/9/8,Retired,12
+50797,0,2,Mobile,49,Other,Suburban,Gold,18,,Home Goods,2023/3/21,Self-Employed,9
+50798,0,2,Computer,22,Other,Urban,Platinum,66,32033.09135,Clothing,2023/9/12,Professional,5
+50799,1,5,Computer,38,Male,Urban,Gold,64,8489.852777,Electronics,2023/9/29,Self-Employed,28
+50800,1,2,Computer,38,Other,Urban,Gold,29,5294.359946,Clothing,2023/9/15,Self-Employed,27
+50801,1,3,Mobile,47,Other,Suburban,Bronze,57,25638.42092,Clothing,2023/2/13,Professional,27
+50802,1,4,Mobile,44,Female,Urban,Gold,71,15040.71379,Home Goods,2023/12/27,Professional,20
+50803,0,2,Computer,58,Other,Suburban,Silver,27,773.5661564,Home Goods,2023/9/13,Student,30
+50804,0,5,Tablet,34,Female,Urban,Platinum,3,428.2503895,Electronics,2023/9/14,Self-Employed,11
+50805,0,2,Mobile,63,Male,Rural,Platinum,55,9895.689176,Clothing,2023/3/20,Professional,23
+50806,0,4,Computer,45,Male,Suburban,Platinum,40,8106.509566,Home Goods,2023/7/31,Self-Employed,8
+50807,0,2,Tablet,36,Male,Rural,Gold,79,16322.90673,Clothing,2023/6/25,Professional,11
+50808,1,5,Tablet,59,Female,Rural,Silver,12,2707.248297,Home Goods,2023/10/30,Self-Employed,4
+50809,0,1,Computer,41,Female,Rural,Gold,61,9563.944586,Home Goods,2023/6/25,Self-Employed,23
+50810,1,5,Tablet,54,Female,Urban,Bronze,79,33378.64794,Electronics,2023/11/1,Student,11
+50811,1,4,Mobile,20,Male,Urban,Silver,89,21961.02229,Electronics,2023/3/13,Retired,11
+50812,0,3,Tablet,67,Other,Urban,Gold,17,,Home Goods,2023/7/6,Self-Employed,18
+50813,0,3,Tablet,37,Female,Urban,Bronze,24,11992.68899,Home Goods,2023/8/11,Student,19
+50814,0,3,Tablet,41,Male,Rural,Bronze,94,1623.509209,Clothing,2023/5/9,Student,13
+50815,0,2,Tablet,66,Male,Urban,Silver,15,4822.156666,Clothing,2023/9/25,Self-Employed,1
+50816,0,5,Mobile,47,Male,Suburban,Silver,63,15422.91947,Home Goods,2023/3/17,Student,15
+50817,0,1,Tablet,55,Other,Urban,Silver,98,5524.084562,Home Goods,2023/11/24,Student,30
+50818,1,3,Mobile,50,Male,Suburban,Silver,47,12357.22187,Clothing,2023/3/4,Professional,11
+50819,0,3,Computer,33,Female,Suburban,Bronze,19,3370.475998,Electronics,2023/5/14,Self-Employed,25
+50820,0,2,Computer,48,Other,Rural,Silver,31,14898.60996,Electronics,2023/1/7,Retired,30
+50821,0,4,Mobile,59,Other,Suburban,Silver,56,8733.055266,Electronics,2023/3/17,Professional,25
+50822,0,4,Computer,31,Male,Suburban,Silver,1,187.2666525,Home Goods,2023/5/16,Retired,25
+50823,1,5,Computer,63,Female,Urban,Bronze,32,6379.688535,Clothing,2023/11/27,Self-Employed,6
+50824,0,2,Mobile,70,Male,Suburban,Gold,66,26991.19693,Electronics,2023/6/23,Retired,4
+50825,0,3,Mobile,24,Male,Urban,Silver,78,32043.76158,Clothing,2023/7/21,Professional,24
+50826,0,2,Tablet,50,Other,Urban,Silver,52,8879.449293,Electronics,2023/10/13,Professional,8
+50827,0,2,Tablet,57,Other,Rural,Gold,83,17578.7474,Clothing,2023/2/10,Student,25
+50828,0,3,Mobile,29,Other,Rural,Silver,86,33558.63424,Home Goods,2023/4/12,Student,10
+50829,0,5,Computer,60,Female,Urban,Silver,11,1405.948029,Clothing,2023/2/28,Student,20
+50830,1,3,Mobile,58,Male,Rural,Bronze,74,31180.60654,Electronics,2023/8/5,Professional,17
+50831,0,4,Tablet,48,Other,Rural,Silver,78,34566.53876,Home Goods,2023/9/27,Retired,23
+50832,0,1,Tablet,27,Other,Rural,Silver,86,14222.80554,Home Goods,2023/12/29,Retired,2
+50833,1,2,Mobile,37,Male,Suburban,Platinum,56,18902.51928,Electronics,2023/3/23,Self-Employed,9
+50834,1,4,Computer,64,Male,Urban,Platinum,19,6522.448589,Clothing,2023/6/26,Retired,12
+50835,0,1,Mobile,18,Other,Urban,Gold,29,915.9815345,Clothing,2023/9/11,Retired,20
+50836,0,2,Mobile,46,Other,Rural,Gold,53,4999.291648,Electronics,2023/4/27,Student,29
+50837,1,2,Mobile,69,Female,Suburban,Platinum,71,31232.01298,Home Goods,2023/2/5,Professional,21
+50838,0,1,Mobile,63,Female,Urban,Bronze,25,4565.320436,Clothing,2023/5/7,Self-Employed,13
+50839,0,1,Computer,63,Female,Rural,Gold,19,3869.480179,Clothing,2023/3/3,Student,15
+50840,0,4,Computer,18,Male,Rural,Silver,14,2995.171608,Home Goods,2023/1/15,Professional,24
+50841,0,3,Computer,27,Female,Rural,Platinum,44,8893.304814,Electronics,2023/7/18,Student,27
+50842,0,2,Computer,49,Male,Urban,Platinum,82,1972.155188,Home Goods,2023/3/1,Retired,4
+50843,0,1,Mobile,64,Male,Rural,Gold,33,16147.65568,Electronics,2023/10/2,Professional,2
+50844,0,2,Tablet,68,Female,Rural,Gold,63,12847.014,Home Goods,2023/3/13,Self-Employed,28
+50845,0,4,Computer,23,Male,Urban,Silver,12,282.6749469,Home Goods,2023/10/15,Retired,22
+50846,0,4,Tablet,64,Other,Urban,Gold,57,3794.882891,Clothing,2023/5/1,Professional,18
+50847,0,3,Computer,39,Other,Rural,Bronze,69,2114.887103,Electronics,2023/11/4,Student,28
+50848,0,2,Tablet,40,Other,Rural,Gold,44,1541.751346,Home Goods,2023/10/8,Student,3
+50849,0,2,Tablet,56,Other,Urban,Bronze,91,31882.73436,Clothing,2023/3/25,Professional,5
+50850,1,5,Mobile,43,Other,Suburban,Gold,96,20754.9705,Clothing,2023/1/13,Student,26
+50851,0,5,Tablet,19,Female,Suburban,Silver,40,10864.52593,Home Goods,2023/11/14,Self-Employed,23
+50852,1,3,Mobile,29,Other,Suburban,Bronze,48,7306.742638,Electronics,2023/3/1,Professional,27
+50853,1,5,Mobile,45,Male,Rural,Gold,73,22081.1838,Home Goods,2023/2/18,Retired,29
+50854,1,2,Computer,33,Other,Suburban,Silver,46,14080.11818,Home Goods,2023/10/11,Self-Employed,23
+50855,0,1,Mobile,38,Male,Suburban,Platinum,70,23595.65856,Home Goods,2023/5/16,Retired,11
+50856,0,3,Computer,32,Other,Suburban,Gold,56,13079.19966,Home Goods,2023/3/24,Self-Employed,20
+50857,0,1,Computer,38,Male,Rural,Gold,57,5096.584921,Electronics,2023/6/14,Student,22
+50858,1,1,Tablet,45,Other,Rural,Platinum,55,10244.64956,Electronics,2023/2/11,Student,26
+50859,0,4,Mobile,67,Male,Rural,Bronze,31,2659.241672,Electronics,2023/9/3,Retired,14
+50860,1,3,Mobile,19,Male,Rural,Gold,36,7692.52508,Home Goods,2023/4/9,Self-Employed,1
+50861,0,1,Computer,47,Male,Rural,Platinum,13,3358.826617,Clothing,2023/5/27,Professional,28
+50862,0,3,Computer,67,Male,Urban,Silver,92,3892.507311,Home Goods,2023/11/22,Self-Employed,18
+50863,0,5,Mobile,56,Other,Rural,Gold,68,759.8377871,Electronics,2023/1/5,Professional,2
+50864,0,2,Computer,29,Other,Rural,Bronze,24,9846.792966,Clothing,2023/11/5,Student,20
+50865,0,3,Tablet,45,Female,Suburban,Platinum,21,10399.28959,Clothing,2023/5/30,Professional,14
+50866,0,3,Mobile,51,Female,Suburban,Bronze,34,12190.31125,Home Goods,2023/4/27,Student,16
+50867,0,2,Mobile,49,Other,Rural,Gold,32,13803.28814,Electronics,2023/3/6,Professional,9
+50868,0,4,Computer,66,Female,Suburban,Gold,56,755.2867533,Electronics,2023/1/5,Student,7
+50869,0,4,Computer,34,Other,Urban,Silver,7,2712.346668,Clothing,2023/4/12,Professional,23
+50870,1,1,Computer,31,Other,Suburban,Gold,67,21427.66384,Electronics,2023/6/21,Self-Employed,11
+50871,0,1,Computer,34,Male,Rural,Gold,8,3887.811239,Electronics,2023/10/12,Professional,22
+50872,0,2,Computer,44,Female,Rural,Gold,4,1179.769823,Clothing,2023/9/23,Retired,7
+50873,0,5,Mobile,49,Male,Suburban,Platinum,45,19906.62824,Electronics,2023/1/22,Student,3
+50874,0,2,Tablet,33,Other,Suburban,Silver,96,45989.64804,Electronics,2023/7/25,Self-Employed,9
+50875,1,5,Mobile,42,Male,Urban,Bronze,30,1123.841517,Clothing,2023/6/27,Professional,23
+50876,0,4,Tablet,23,Female,Urban,Bronze,61,3791.299092,Home Goods,2023/3/24,Professional,7
+50877,1,1,Mobile,70,Female,Rural,Platinum,69,34421.61384,Clothing,2023/11/14,Student,14
+50878,0,5,Mobile,56,Female,Suburban,Gold,97,1560.638624,Electronics,2023/2/24,Student,20
+50879,0,2,Mobile,62,Male,Suburban,Platinum,93,43677.28128,Electronics,2023/5/29,Self-Employed,10
+50880,0,2,Computer,46,Female,Urban,Gold,28,8597.083525,Clothing,2023/12/26,Retired,30
+50881,0,5,Tablet,40,Female,Rural,Bronze,34,8610.306736,Clothing,2023/10/18,Retired,16
+50882,0,4,Computer,23,Other,Urban,Silver,41,2839.786912,Clothing,2023/7/1,Professional,30
+50883,1,2,Tablet,68,Female,Rural,Platinum,9,1892.139649,Home Goods,2023/11/18,Student,6
+50884,0,4,Tablet,54,Female,Urban,Silver,91,36379.0263,Home Goods,2023/11/23,Self-Employed,26
+50885,0,3,Mobile,69,Other,Suburban,Platinum,17,2466.682916,Home Goods,2023/10/1,Retired,19
+50886,0,2,Computer,26,Female,Suburban,Silver,92,32778.96565,Electronics,2023/4/3,Student,13
+50887,0,3,Tablet,36,Male,Urban,Platinum,68,28658.75214,Clothing,2023/11/7,Retired,12
+50888,0,3,Mobile,19,Male,Urban,Bronze,12,2554.497592,Electronics,2023/3/7,Student,11
+50889,0,4,Mobile,68,Other,Rural,Gold,90,30042.52154,Home Goods,2023/12/5,Self-Employed,10
+50890,0,1,Tablet,42,,Suburban,Silver,39,5441.924013,Clothing,2023/7/11,Retired,24
+50891,0,4,Computer,42,Female,Suburban,Gold,66,19627.69605,Home Goods,2023/9/15,Student,11
+50892,0,5,Tablet,23,Male,Suburban,Silver,70,9376.201659,Home Goods,2023/2/1,Student,23
+50893,0,3,Tablet,42,Male,Suburban,Silver,24,8045.497872,Electronics,2023/3/30,Professional,30
+50894,0,5,Computer,70,Other,Rural,Silver,66,26978.85935,Home Goods,2023/1/15,Professional,13
+50895,0,1,Tablet,54,Other,Urban,Silver,60,2416.908723,Clothing,2023/8/6,Professional,23
+50896,0,1,Computer,66,Female,Rural,Gold,96,31801.74161,Home Goods,2023/4/9,Self-Employed,8
+50897,0,1,Mobile,37,Female,Urban,Gold,31,12618.63696,Clothing,2023/2/5,Professional,19
+50898,0,4,Computer,58,Other,Suburban,Platinum,27,3872.707256,Home Goods,2023/4/22,Student,15
+50899,0,1,Computer,54,Male,Urban,Platinum,36,3129.883425,Clothing,2023/9/7,Retired,27
+50900,0,5,Tablet,28,Female,Urban,Platinum,65,29915.99613,Clothing,2023/9/4,Professional,20
+50901,0,1,Computer,67,Other,Rural,Bronze,62,15693.69944,Electronics,2023/12/17,Retired,18
+50902,0,2,Tablet,56,Other,Suburban,Platinum,19,560.0154308,Clothing,2023/10/16,Professional,19
+50903,0,2,Computer,36,Male,Suburban,Bronze,76,22595.69657,Electronics,2023/10/28,Professional,2
+50904,0,5,Computer,40,Female,Urban,Bronze,58,22667.23178,Home Goods,2023/2/10,Student,16
+50905,0,1,Computer,65,Female,Suburban,Silver,81,11344.74525,Home Goods,2023/6/29,Retired,24
+50906,0,1,Computer,66,Male,Suburban,Silver,6,1139.187009,Home Goods,2023/6/1,Student,16
+50907,0,1,Computer,31,Male,Rural,Silver,51,24585.93198,Clothing,2023/10/15,Student,12
+50908,0,2,Computer,47,Male,Rural,Gold,51,12463.08266,Home Goods,2023/10/26,Professional,21
+50909,0,5,Computer,63,Other,Urban,Gold,32,10586.11381,Home Goods,2023/8/31,Retired,25
+50910,0,5,Mobile,25,Male,Urban,Silver,62,21067.83587,Electronics,2023/4/25,Student,10
+50911,1,5,Tablet,23,Male,Rural,Silver,13,2463.222365,Clothing,2023/1/12,Self-Employed,11
+50912,0,5,Mobile,44,Other,Suburban,Platinum,77,29961.04603,Electronics,2023/6/6,Self-Employed,25
+50913,0,4,Tablet,45,Female,Suburban,Platinum,40,4963.441329,Home Goods,2023/12/9,Retired,3
+50914,0,1,Mobile,35,Other,Suburban,Bronze,57,9750.25749,Home Goods,2023/5/2,Student,7
+50915,0,4,Mobile,45,Male,Urban,Platinum,89,8716.51719,Electronics,2023/11/7,Self-Employed,11
+50916,0,2,Computer,64,Female,Suburban,Gold,61,8303.536171,Home Goods,2023/12/11,Student,18
+50917,1,3,Computer,42,Other,Rural,Bronze,4,1864.28073,Electronics,2023/8/1,Professional,13
+50918,0,3,Mobile,66,Other,Urban,Bronze,56,11310.92313,Clothing,2023/11/23,Student,10
+50919,0,4,Mobile,53,Other,Urban,Gold,7,1673.867231,Clothing,2023/1/12,Professional,29
+50920,0,3,Mobile,19,Female,Rural,Platinum,98,11254.75835,Electronics,2023/3/5,Professional,2
+50921,0,1,Mobile,61,Other,Suburban,Silver,42,15505.3752,Electronics,2023/9/16,Student,28
+50922,0,4,Mobile,41,Other,Urban,Gold,36,1843.953797,Clothing,2023/1/31,Professional,17
+50923,0,2,Computer,18,Other,Urban,Gold,19,808.7894223,Home Goods,2023/4/19,Self-Employed,10
+50924,0,5,Mobile,66,Other,Urban,Silver,17,5431.39456,Electronics,2023/8/12,Professional,17
+50925,0,5,Tablet,19,Male,Urban,Gold,97,41839.24691,Electronics,2023/10/26,Professional,17
+50926,0,5,Computer,66,Other,Rural,Silver,58,13042.39659,Clothing,2023/7/15,Retired,19
+50927,1,3,Computer,52,Male,Suburban,Platinum,84,41565.33432,Electronics,2023/2/12,Student,3
+50928,0,1,Mobile,44,Other,Suburban,Bronze,72,16346.10991,Home Goods,2023/9/1,Retired,30
+50929,1,1,Computer,60,Male,Suburban,Bronze,16,1955.661959,Home Goods,2023/11/13,Student,21
+50930,0,4,Tablet,32,Other,Suburban,Silver,90,20563.48312,Home Goods,2023/7/18,Professional,26
+50931,0,2,Computer,28,Female,Suburban,Platinum,72,16648.42952,Home Goods,2023/5/9,Retired,27
+50932,1,5,Computer,61,Male,Suburban,Bronze,64,27008.32054,Clothing,2023/4/25,Professional,24
+50933,0,4,Computer,22,Female,Rural,Bronze,22,4247.887641,Clothing,2023/2/4,Self-Employed,24
+50934,0,2,Computer,55,Male,Rural,Platinum,31,8463.589663,Clothing,2023/5/26,Student,12
+50935,1,5,Computer,66,Female,Suburban,Bronze,33,966.6082859,Home Goods,2023/12/27,Professional,16
+50936,0,1,Tablet,52,Female,Rural,Bronze,1,25.25845479,Clothing,2023/10/14,Self-Employed,1
+50937,0,3,Computer,38,Female,Rural,Gold,22,7938.957668,Home Goods,2023/6/4,Student,15
+50938,0,5,Tablet,22,Male,Urban,Silver,35,1423.770413,Electronics,2023/9/26,Self-Employed,13
+50939,0,5,Mobile,36,Other,Rural,Silver,,12540.55478,Home Goods,2023/4/27,Retired,26
+50940,0,4,Computer,41,Other,Suburban,Silver,79,6602.453623,Electronics,2023/6/14,Professional,26
+50941,0,3,Tablet,42,Other,Suburban,Gold,28,10136.05305,Home Goods,2023/4/17,Self-Employed,13
+50942,0,1,Computer,51,Other,Urban,Bronze,42,960.3867167,Home Goods,2023/11/23,Professional,5
+50943,0,5,Mobile,69,Female,Suburban,Gold,49,11672.74815,Clothing,2023/11/13,Retired,4
+50944,0,2,Computer,30,Male,Rural,Silver,15,7261.137164,Clothing,2023/10/28,Self-Employed,1
+50945,0,3,Computer,51,Other,Suburban,Gold,64,3397.088431,Clothing,2023/7/9,Professional,6
+50946,1,3,Computer,19,Male,Urban,Bronze,16,6502.178272,Clothing,2023/2/26,Professional,13
+50947,1,5,Tablet,58,Other,Rural,Platinum,15,6523.804733,Home Goods,2023/7/4,Student,6
+50948,0,4,Tablet,64,Female,Rural,Silver,18,2965.449815,Electronics,2023/8/30,Student,9
+50949,0,4,Computer,69,Other,Suburban,Platinum,98,18270.07405,Clothing,2023/7/29,Self-Employed,25
+50950,0,1,Mobile,64,Other,Urban,Bronze,43,16029.68331,Electronics,2023/6/26,Student,28
+50951,0,4,Computer,65,Female,Urban,Gold,4,707.9782788,Home Goods,2023/11/15,Retired,24
+50952,0,2,Tablet,22,Female,Suburban,Gold,66,4338.692918,Home Goods,2023/11/23,Student,6
+50953,0,4,Mobile,34,Male,Urban,Gold,51,21833.7043,Home Goods,2023/4/20,Professional,26
+50954,1,3,Mobile,52,Male,Urban,Gold,30,14261.77878,Electronics,2023/6/28,Self-Employed,29
+50955,1,1,Tablet,46,Male,Suburban,Silver,60,23292.19523,Clothing,2023/6/12,Self-Employed,19
+50956,0,5,Computer,18,Other,Urban,Bronze,5,1459.64285,Clothing,2023/12/17,Student,29
+50957,0,2,Mobile,26,Other,Rural,Platinum,58,14063.4694,Clothing,2023/5/20,Retired,19
+50958,0,5,Mobile,37,Other,Suburban,Platinum,92,43529.37838,Home Goods,2023/3/24,Student,21
+50959,1,3,Tablet,41,Other,Suburban,Silver,99,26439.17995,Clothing,2023/9/13,Self-Employed,21
+50960,1,3,Mobile,34,Other,Urban,Silver,34,11010.84889,Home Goods,2023/7/31,Self-Employed,25
+50961,0,1,Mobile,39,Other,Urban,Gold,66,14885.18324,Clothing,2023/5/29,Retired,19
+50962,1,4,Tablet,38,Female,Rural,Silver,37,664.8506076,Electronics,2023/9/18,Retired,15
+50963,1,2,Computer,24,Other,Suburban,Platinum,93,36014.28581,Clothing,2023/8/1,Student,17
+50964,0,3,Tablet,65,Female,Urban,Gold,50,20026.7481,Clothing,2023/1/23,Student,11
+50965,0,1,Mobile,37,Male,Rural,Platinum,2,447.1369302,Clothing,2023/10/28,Professional,19
+50966,0,5,Computer,48,Other,Rural,Bronze,43,19568.63922,Clothing,2023/6/27,Professional,18
+50967,0,5,Computer,42,Female,Urban,Bronze,55,20586.88556,Home Goods,2023/7/12,Professional,26
+50968,1,3,Mobile,34,Female,Urban,Silver,83,31084.71364,Clothing,2023/6/12,Student,24
+50969,0,5,Mobile,60,Other,Rural,Gold,48,14034.56914,Clothing,2023/4/21,Self-Employed,14
+50970,0,3,Tablet,47,Female,Urban,Gold,80,34959.81407,Electronics,2023/5/16,Self-Employed,26
+50971,0,3,Tablet,37,Other,Suburban,Gold,7,3165.232407,Electronics,2023/7/17,Student,11
+50972,1,1,Mobile,57,Other,Urban,Silver,61,23705.45828,Electronics,2023/12/10,Retired,24
+50973,1,4,Tablet,65,Other,Urban,Platinum,93,29355.47548,Home Goods,2023/10/12,Self-Employed,19
+50974,0,1,Computer,59,Male,Suburban,Platinum,7,210.9218357,Electronics,2023/9/5,Professional,4
+50975,1,3,Tablet,32,Other,Rural,Silver,5,296.7257158,Electronics,2023/3/5,Retired,19
+50976,0,2,Mobile,45,Female,Urban,Platinum,68,13568.8357,Clothing,2023/6/4,Professional,13
+50977,0,2,Tablet,26,Other,Suburban,Bronze,67,5683.248479,Home Goods,2023/4/21,Retired,4
+50978,1,1,Tablet,31,Female,Urban,Gold,47,22987.34792,Clothing,2023/3/11,Self-Employed,25
+50979,0,5,Mobile,49,Male,Suburban,Platinum,91,14635.41485,Home Goods,2023/3/24,Self-Employed,10
+50980,0,1,Tablet,27,Female,Urban,Bronze,5,1588.05179,Clothing,2023/1/21,Professional,30
+50981,0,3,Computer,29,Other,Rural,Platinum,45,13205.17677,Home Goods,2023/3/21,Retired,17
+50982,1,1,Mobile,21,Female,Rural,Gold,63,16095.12904,Clothing,2023/2/18,Self-Employed,10
+50983,0,1,Computer,32,Female,Suburban,Silver,7,288.7366219,Home Goods,2023/8/29,Professional,15
+50984,1,4,Computer,61,Other,Suburban,Bronze,84,6666.069822,Home Goods,2023/11/23,Retired,29
+50985,0,4,Computer,69,Male,Suburban,Bronze,97,8695.945828,Home Goods,2023/9/23,Professional,26
+50986,0,2,Mobile,22,Male,Suburban,Silver,92,33723.49955,Clothing,2023/6/19,Professional,28
+50987,0,2,Tablet,47,Female,Urban,Gold,99,26650.60847,Home Goods,2023/7/20,Retired,13
+50988,0,2,Tablet,34,Male,Rural,Gold,29,13602.11544,Electronics,2023/12/12,Retired,23
+50989,0,4,Mobile,52,Other,Urban,Platinum,18,2509.113061,Clothing,2023/12/27,Retired,5
+50990,0,4,Tablet,55,Male,Rural,Gold,35,10060.79474,Home Goods,2023/9/27,Professional,19
+50991,1,2,Computer,70,Male,Urban,Gold,89,31518.11908,Electronics,2023/8/24,Self-Employed,2
+50992,0,1,Mobile,49,Female,Suburban,Silver,83,23591.097,Clothing,2023/8/27,Retired,29
+50993,0,1,Mobile,53,Female,Urban,Bronze,2,79.71161491,Clothing,2023/6/12,Student,12
+50994,1,2,Mobile,61,Male,Rural,Bronze,61,1297.804333,Clothing,2023/3/13,Student,11
+50995,0,3,Mobile,39,Other,Rural,Silver,17,6096.034245,Electronics,2023/12/1,Self-Employed,1
+50996,0,5,Tablet,29,Female,Urban,Silver,87,19199.41978,Clothing,2023/3/21,Self-Employed,28
+50997,0,3,Computer,43,Male,Urban,Silver,85,40813.53631,Home Goods,2023/9/14,Professional,26
+50998,0,1,Tablet,57,Other,Urban,Gold,65,3267.869417,Electronics,2023/9/7,Self-Employed,23
+50999,0,4,Mobile,32,Other,Suburban,Bronze,84,16942.3025,Electronics,2023/10/11,Professional,24
+51000,0,3,Computer,51,Male,Rural,Platinum,72,28724.38561,Clothing,2023/3/3,Professional,17
