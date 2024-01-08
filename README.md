@@ -11,21 +11,29 @@ The dataset is a realistic simulation representing actual e-commerce customer be
 
 Methodology
 
-Data Preprocessing: Conducted with SAS Enterprise Miner, Talend Data Integration and Talend Data Preparation, including handling missing values and ensuring data quality./
-Modeling: Applied ensemble methods, such as bagging and boosting, with a focus on the Decision Tree, Random Forest and Gradient Boosting models./
-Evaluation: Models were compared based on the Average Squared Error and other evaluation metrics, with Gradient Boosting outperforming others in prediction accuracy./
+Data Preprocessing: Conducted with SAS Enterprise Miner, Talend Data Integration and Talend Data Preparation, including handling missing values and ensuring data quality.
+
+Modeling: Applied ensemble methods, such as bagging and boosting, with a focus on the Decision Tree, Random Forest and Gradient Boosting models.
+
+Evaluation: Models were compared based on the Average Squared Error and other evaluation metrics, with Gradient Boosting outperforming others in prediction accuracy.
+
 
 The Role of Tools:
 
 SAS Enterprise Miner was utilized for advanced analytics. It played a pivotal role in modeling customer behavior, enabling the application of various statistical and machine learning techniques such as decision trees and ensemble models.
+
 Talend Data Integration was employed to combine and transform raw data from disparate sources into a clean, unified dataset ready for analysis. It was instrumental in automating and streamlining the data preparation process.
+
 Talend Data Prep was used for exploratory data analysis and preprocessing tasks. It facilitated the cleaning, normalization, and organization of data, ensuring that the dataset used for modeling was of high quality and structured correctly.
 
 Key Findings
 
 The Gradient Boosting model was most effective at predicting customer churn and generalizes well to unseen data.
+
 Variable importance measures highlighted influential factors contributing to churn.
+
 The project emphasizes the need for model generalization and the strategic allocation of resources for customer retention.
+
 
 Business Insights
 
